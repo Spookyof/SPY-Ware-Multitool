@@ -1,0 +1,13 @@
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+python-nmap>=0.6.1
+pyfiglet>=0.8.post1
+whois>=0.9.8
+paramiko>=2.7.2
+pyshark>=0.4.0
+dnspython>=2.2.1
+rich>=13.3.1
+cryptography>=39.0.1
+scapy>=2.5.0
+python-nmap
+python-whois
