@@ -81,11 +81,15 @@ Clonez le dépôt et installez les dépendances nécessaires.
 https://github.com/Spookyof/SPY-Ware-Multitool
 cd spy-ware-multi-tool
 pip install -r requirements.txt
+
+OU
+
+Cliquer sur setup, puis fermez pour une meilleure immersion, et ouvrir le fichier .bat SPY-Ware
 🚀 Utilisation
 Exécutez simplement le script principal pour accéder au menu des outils.
 
+
 bash
-Copier le code
 python spy_ware_tool.py
 Naviguez dans le menu pour sélectionner la catégorie d'outils que vous souhaitez utiliser.
 
